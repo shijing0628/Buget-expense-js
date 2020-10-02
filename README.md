@@ -2,7 +2,7 @@
 
 # This is created Shijing Liu Version 1 2020-10-2
 
-javascript small app
+javascript small app (ES6+ bootstrap)
 
 Functions include reminding people input valid number for budget and expense,
 calculate balance,

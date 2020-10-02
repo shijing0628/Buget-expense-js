@@ -165,7 +165,6 @@ function eventListeners() {
   //expense submit
   expenseList.addEventListener("click", function (e) {
     e.preventDefault();
-
     if (e.target.classList.contains("edit-expense-icon")) {
       ui.expenseEdit(e.target);
     } else if (e.target.classList.contains("delete-expense-icon")) {
