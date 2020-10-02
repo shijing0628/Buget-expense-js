@@ -1,4 +1,4 @@
-# Buget-expense-js
+# Budget-expense-js
 
 # This is created Shijing Liu Version 1 2020-10-2
 
